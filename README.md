@@ -4,10 +4,11 @@
 SPROG 
 Visual studio code
 SQL
-Angular(Typescript)
-C#
-CSS (EVT. CASS)
+Angular(Typescript)()
+CSS (EVT. CASS)()
+HTML()
 GITHUB
+C#
 
 
 SERVER og DATABASE:
